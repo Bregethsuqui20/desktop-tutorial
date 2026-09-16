@@ -1,5 +1,12 @@
-# Welcome to GitHub Desktop!
+# proyecto-PAEC
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Bregeth Sanchez Godinez
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+top 3 cosas favoritas:
+
+1.dormir
+2.comer
+3.ver peliculas
+
+metas:
+ser exitosa y tener un buen sueldo
